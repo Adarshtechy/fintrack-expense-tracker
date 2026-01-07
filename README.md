@@ -1,8 +1,7 @@
-# FinTrack 📊  
+# FinTrack Expense Tracker 📊  
 ### Smart Personal Finance & Transaction Management System
 
 FinTrack is a modern, feature-rich **personal finance tracking web application** designed to help users efficiently manage income, track expenses, and analyze spending behavior.
-
 Built using vanilla JavaScript with a clean and intuitive UI, FinTrack demonstrates real-world front-end development skills and is ideal for showcasing in professional portfolios.
 
 ## 🚀 Features
@@ -40,12 +39,11 @@ Built using vanilla JavaScript with a clean and intuitive UI, FinTrack demonstra
 - **Chart.js** – Interactive data visualization  
 
 ## 📂 Project Structure
-FinTrack/
-
+```
+fintrack-expense-tracker/
+|
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 └── README.md
+```
